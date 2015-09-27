@@ -54,17 +54,30 @@ var Profile = React.createClass({
         <div className='profileBirthday'>
           {new Date(this.props.birthday).toLocaleDateString()}
         </div>
-        <div className='profileAge'>
-          {this.props.age} years old
+        <div className='profileAgeCurrent'>
+          {this.currentAge()} years old
+        </div>
+        <div className='profileAgeForecast'>
+          {this.props.age} years (forecast)
         </div>
         <LifeMap date_from={this.props.birthday} years={this.props.age} />
       </div>
     );
   },
+
+  currentAge: function() {
+    return Math.ceil((new Date() - new Date(this.props.birthday)) / (1000*60*60*24*365));
+  },
 });
 
 var LifeMap = React.createClass({
   render: function() {
+    var weeks = [];
+    var now = new Date();
+    for (var i = 0; i < this.daysTotal() / 7; i++) {
+      var isPast = new Date(this.props.date_from + (1000*60*60*24) * i * 7) < now;
+      weeks.push(<LifeWeek progressStatus={isPast ? 'x' : 'o'} />);
+    }
     return (
       <div className='lifeMap'>
         <h3>
@@ -79,8 +92,8 @@ var LifeMap = React.createClass({
         <div>
           {this.daysLeft()} days left, it is {Math.round(this.daysLeft()/this.daysTotal()*100)}%
         </div>
-        <div className='canvas'>
-        </div>
+        <br />
+        <div className='canvas'>{weeks}</div>
       </div>
     );
   },
@@ -98,7 +111,15 @@ var LifeMap = React.createClass({
   },
 
   daysLeft: function() {
-    return this.diffDays(new Date(), this.props.date_from)
+    return this.diffDays(this.dateTo().getTime(), new Date())
+  }
+});
+
+var LifeWeek = React.createClass({
+  render: function() {
+    return (
+      <span className='week'>{this.props.progressStatus}</span>
+    )
   }
 });
 
