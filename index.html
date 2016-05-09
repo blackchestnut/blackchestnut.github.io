@@ -17,6 +17,11 @@
       body {
         font-family: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
       }
+      @media only screen and (max-width: 1000px) {
+        body {
+          font-size: 34px;
+        }
+      }
       h1 {
         margin: 0 0 4px 0;
       }
@@ -33,6 +38,12 @@
         margin: 60px auto 0 auto;
         padding-left: 300px;
         width: 400px;
+      }
+      @media only screen and (max-width: 1000px) {
+        .container {
+          margin: 0;
+          width: auto;
+        }
       }
       a {
         color: #0D44A0;
@@ -64,6 +75,15 @@
       }
       ul.table.long li a {
         width: 174px;
+      }
+      @media only screen and (max-width: 1000px) {
+        ul li span {
+          width: 128px;
+        }
+        ul.table li a,
+        ul.table.long li a {
+          width: 280px;
+        }
       }
     </style>
   </head>
