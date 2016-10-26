@@ -1,6 +1,11 @@
 # blackchestnut.github.io
 
-### Notes
+> Notes
+
+### Ruby on Rails
+
+- Migrations
+  - [References with alias name](https://github.com/blackchestnut/blackchestnut.github.io/issues/2)
 
 - File Attachment Tools
   - [Shrine](https://github.com/blackchestnut/blackchestnut.github.io/issues/1)
