@@ -3,6 +3,8 @@
 > Notes
 
 ### Ruby on Rails
+- Assets
+  - [Custom fonts in Rails 5](https://github.com/blackchestnut/blackchestnut.github.io/issues/6)
 
 - Decorators
   - [JSON fields in Disposable::Twin](https://github.com/blackchestnut/blackchestnut.github.io/issues/5)
