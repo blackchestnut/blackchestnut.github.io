@@ -18,6 +18,9 @@
 - Useful Code
   - [Service](https://github.com/blackchestnut/blackchestnut.github.io/issues/2)
   
+- Views
+  - [Enum humanized keys in select](https://github.com/blackchestnut/blackchestnut.github.io/issues/7)
+  
 ### PostgreSQL
 
 - [Upgrade PostgreSQL 9.3 on OS X](https://github.com/blackchestnut/blackchestnut.github.io/issues/4)
