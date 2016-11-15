@@ -10,7 +10,8 @@
   - [JSON fields in Disposable::Twin](https://github.com/blackchestnut/blackchestnut.github.io/issues/5)
 
 - File Attachment Tools
-  - [Shrine](https://github.com/blackchestnut/blackchestnut.github.io/issues/1)  
+  - [Shrine](https://github.com/blackchestnut/blackchestnut.github.io/issues/1)
+  - [Shrine direct uploads to s3](https://github.com/blackchestnut/blackchestnut.github.io/issues/8)
 
 - Migrations
   - [References with alias name](https://github.com/blackchestnut/blackchestnut.github.io/issues/3)
