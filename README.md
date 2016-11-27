@@ -17,7 +17,7 @@
   - [References with alias name](https://github.com/blackchestnut/blackchestnut.github.io/issues/3)
 
 - Useful Code
-  - [ApplicationHelper](https://github.com/blackchestnut/blackchestnut.github.io/issues/9)
+  - [ApplicationHelper and layouts/application](https://github.com/blackchestnut/blackchestnut.github.io/issues/9)
   - [Service](https://github.com/blackchestnut/blackchestnut.github.io/issues/2)
   
 - Views
