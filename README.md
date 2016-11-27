@@ -19,9 +19,11 @@
 - Useful Code
   - [ApplicationHelper and layouts/application](https://github.com/blackchestnut/blackchestnut.github.io/issues/9)
   - [Service](https://github.com/blackchestnut/blackchestnut.github.io/issues/2)
+  - [Simple authentication with password](https://github.com/blackchestnut/blackchestnut.github.io/issues/11)
   
 - Views
   - [Enum humanized keys in select](https://github.com/blackchestnut/blackchestnut.github.io/issues/7)
+  - [Form field with errors](https://github.com/blackchestnut/blackchestnut.github.io/issues/11)
   
 ### PostgreSQL
 
