@@ -24,7 +24,13 @@
 - Views
   - [Enum humanized keys in select](https://github.com/blackchestnut/blackchestnut.github.io/issues/7)
   - [Form field with errors](https://github.com/blackchestnut/blackchestnut.github.io/issues/11)
-  
+
+### React Native
+
+#### Android
+- Build
+  - [Build unsigned apk for device without the development server](https://github.com/blackchestnut/blackchestnut.github.io/issues/12)
+
 ### PostgreSQL
 
 - [Upgrade PostgreSQL 9.3 on OS X](https://github.com/blackchestnut/blackchestnut.github.io/issues/4)
