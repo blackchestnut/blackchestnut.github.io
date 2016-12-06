@@ -30,6 +30,9 @@
 #### Android
 - Build
   - [Build unsigned apk for device without the development server](https://github.com/blackchestnut/blackchestnut.github.io/issues/12)
+  
+- Troubleshooting
+  - [Execution failed for task ':app:dexDebug'](https://github.com/blackchestnut/blackchestnut.github.io/issues/13)
 
 ### PostgreSQL
 
