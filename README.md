@@ -24,6 +24,7 @@
 - Views
   - [Enum humanized keys in select](https://github.com/blackchestnut/blackchestnut.github.io/issues/7)
   - [Form field with errors](https://github.com/blackchestnut/blackchestnut.github.io/issues/11)
+  - [Pass array of objects via QueryString or Forms](https://github.com/blackchestnut/blackchestnut.github.io/issues/15)
 
 ### React Native
 
