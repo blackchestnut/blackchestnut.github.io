@@ -12,6 +12,7 @@
 - File Attachment Tools
   - [Shrine](https://github.com/blackchestnut/blackchestnut.github.io/issues/1)
   - [Shrine direct uploads to s3](https://github.com/blackchestnut/blackchestnut.github.io/issues/8)
+  - [Shrine direct uploads to s3 (has_many)](https://github.com/blackchestnut/blackchestnut.github.io/issues/19)
 
 - Migrations
   - [References with alias name](https://github.com/blackchestnut/blackchestnut.github.io/issues/3)
