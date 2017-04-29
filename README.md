@@ -49,6 +49,7 @@
 
 - [To Add Swap on Ubuntu 14.04](https://github.com/blackchestnut/blackchestnut.github.io/issues/16)
 - [SSL certificate](https://github.com/blackchestnut/blackchestnut.github.io/issues/21)
+- [Install Dropbox Client as a Service on Ubuntu 14.04](https://github.com/blackchestnut/blackchestnut.github.io/issues/22)
 
 ### Git
 
