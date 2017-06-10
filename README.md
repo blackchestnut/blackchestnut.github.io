@@ -8,6 +8,9 @@
 
 - Decorators
   - [JSON fields in Disposable::Twin](https://github.com/blackchestnut/blackchestnut.github.io/issues/5)
+  
+- Elasticsearch
+  - [Chewy](https://github.com/blackchestnut/blackchestnut.github.io/issues/23)
 
 - File Attachment Tools
   - [Shrine](https://github.com/blackchestnut/blackchestnut.github.io/issues/1)
