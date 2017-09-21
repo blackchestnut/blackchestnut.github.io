@@ -44,7 +44,8 @@
   - [Paste text on Android Emulator](https://github.com/blackchestnut/blackchestnut.github.io/issues/18)
 
 - Troubleshooting
-  - [Execution failed for task ':app:dexDebug'](https://github.com/blackchestnut/blackchestnut.github.io/issues/13)  
+  - [Execution failed for task ':app:dexDebug'](https://github.com/blackchestnut/blackchestnut.github.io/issues/13)
+  - [Android release APK, build error third-party/glog-0.3.4/test-driver](https://github.com/blackchestnut/blackchestnut.github.io/issues/25)
 
 ### PostgreSQL
 
