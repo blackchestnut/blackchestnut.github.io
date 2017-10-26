@@ -53,6 +53,7 @@
 - Troubleshooting
   - [Execution failed for task ':app:dexDebug'](https://github.com/blackchestnut/blackchestnut.github.io/issues/13)
   - [Android release APK, build error third-party/glog-0.3.4/test-driver](https://github.com/blackchestnut/blackchestnut.github.io/issues/25)
+  - [Confirm license for package Android SDK Build-Tools](https://github.com/blackchestnut/blackchestnut.github.io/issues/29)
 
 ### PostgreSQL
 
