@@ -38,6 +38,10 @@
 
 ### React Native
 
+#### iOS
+  - Troubleshooting
+    - [third-party: 'config.h' file not found](https://github.com/blackchestnut/blackchestnut.github.io/issues/28)
+
 #### Android
 - Build
   - [Build unsigned apk for device without the development server](https://github.com/blackchestnut/blackchestnut.github.io/issues/12)
