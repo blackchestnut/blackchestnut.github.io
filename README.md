@@ -25,6 +25,7 @@
   
 - Sidekiq
   - [Reschedule jobs](https://github.com/blackchestnut/blackchestnut.github.io/issues/30)
+  - [Delete jobs](https://github.com/blackchestnut/blackchestnut.github.io/issues/32)
 
 - Useful Code
   - [ApplicationHelper and layouts/application](https://github.com/blackchestnut/blackchestnut.github.io/issues/9)
