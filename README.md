@@ -1,47 +1,68 @@
 # blackchestnut.github.io
 
-> Notes
+> Developer Notes
+
+### Contents
+1. [Ruby on Rails](README.md#ruby-on-rails)
+  1. [Assets](README.md#assets)
+  1. [Caching](README.md#caching)
+  1. [Decorators](README.md#decorators)
+  1. [Elasticsearch](README.md#elasticsearch)
+  1. [File Attachment Tools](README.md#file-attachment-tools)
+  1. [Migrations](README.md#migrations)
+  1. [Sidekiq](README.md#sidekiq)
+  1. [Useful Code](README.md#useful-code)
+  1. [Views](README.md#views)
+  1. [Rspec](README.md#rspec)
+  1. [Troubleshooting](README.md#troubleshooting)
+1. [React Native](README.md#react-native)
+  1. [iOS](README.md#ios)
+  1. [Android](README.md#android)
+1. [PostgreSQL](README.md#postgresql)
+1. [Administration](README.md#administration)
+1. [Git](README.md#git)
 
 ### Ruby on Rails
-- Assets
-  - [Custom fonts in Rails 5](https://github.com/blackchestnut/blackchestnut.github.io/issues/6)
-  
-- Caching
-  - [Disabling Caching in Tests](https://github.com/blackchestnut/blackchestnut.github.io/issues/24)
 
-- Decorators
-  - [JSON fields in Disposable::Twin](https://github.com/blackchestnut/blackchestnut.github.io/issues/5)
-  
-- Elasticsearch
-  - [Chewy](https://github.com/blackchestnut/blackchestnut.github.io/issues/23)
+#### Assets
+- [Custom fonts in Rails 5](https://github.com/blackchestnut/blackchestnut.github.io/issues/6)
 
-- File Attachment Tools
-  - [Shrine](https://github.com/blackchestnut/blackchestnut.github.io/issues/1)
-  - [Shrine direct uploads to s3](https://github.com/blackchestnut/blackchestnut.github.io/issues/8)
-  - [Shrine direct uploads to s3 (has_many)](https://github.com/blackchestnut/blackchestnut.github.io/issues/19)
+#### Caching
+- [Disabling Caching in Tests](https://github.com/blackchestnut/blackchestnut.github.io/issues/24)
 
-- Migrations
-  - [References with alias name](https://github.com/blackchestnut/blackchestnut.github.io/issues/3)
-  
-- Sidekiq
-  - [Reschedule jobs](https://github.com/blackchestnut/blackchestnut.github.io/issues/30)
-  - [Delete jobs](https://github.com/blackchestnut/blackchestnut.github.io/issues/32)
+#### Decorators
+- [JSON fields in Disposable::Twin](https://github.com/blackchestnut/blackchestnut.github.io/issues/5)
 
-- Useful Code
-  - [ApplicationHelper and layouts/application](https://github.com/blackchestnut/blackchestnut.github.io/issues/9)
-  - [Service](https://github.com/blackchestnut/blackchestnut.github.io/issues/2)
-  - [Simple authentication with password](https://github.com/blackchestnut/blackchestnut.github.io/issues/11)
-  
-- Views
-  - [Enum humanized keys in select](https://github.com/blackchestnut/blackchestnut.github.io/issues/7)
-  - [Form field with errors](https://github.com/blackchestnut/blackchestnut.github.io/issues/11)
-  - [Pass array of objects via QueryString or Forms](https://github.com/blackchestnut/blackchestnut.github.io/issues/15)
+#### Elasticsearch
+- [Chewy](https://github.com/blackchestnut/blackchestnut.github.io/issues/23)
 
-- Rspec
-  - [Ignore some specs on CI](https://github.com/blackchestnut/blackchestnut.github.io/issues/31)
-  
-- Troubleshooting
-  - [Array values in the parameter to `Gem.paths=` are deprecated](https://github.com/blackchestnut/blackchestnut.github.io/issues/27)
+#### File Attachment Tools
+- [Shrine](https://github.com/blackchestnut/blackchestnut.github.io/issues/1)
+- [Shrine direct uploads to s3](https://github.com/blackchestnut/blackchestnut.github.io/issues/8)
+- [Shrine direct uploads to s3 (has_many)](https://github.com/blackchestnut/blackchestnut.github.io/issues/19)
+
+#### Migrations
+- [References with alias name](https://github.com/blackchestnut/blackchestnut.github.io/issues/3)
+
+#### Sidekiq
+- [Reschedule jobs](https://github.com/blackchestnut/blackchestnut.github.io/issues/30)
+- [Delete jobs](https://github.com/blackchestnut/blackchestnut.github.io/issues/32)
+
+#### Useful Code
+- [ApplicationHelper and layouts/application](https://github.com/blackchestnut/blackchestnut.github.io/issues/9)
+- [Service](https://github.com/blackchestnut/blackchestnut.github.io/issues/2)
+- [Simple authentication with password](https://github.com/blackchestnut/blackchestnut.github.io/issues/11)
+
+#### Views
+- [Enum humanized keys in select](https://github.com/blackchestnut/blackchestnut.github.io/issues/7)
+- [Form field with errors](https://github.com/blackchestnut/blackchestnut.github.io/issues/11)
+- [Pass array of objects via QueryString or Forms](https://github.com/blackchestnut/blackchestnut.github.io/issues/15)
+
+#### Rspec
+- [Ignore some specs on CI](https://github.com/blackchestnut/blackchestnut.github.io/issues/31)
+
+#### Troubleshooting
+- [Array values in the parameter to `Gem.paths=` are deprecated](https://github.com/blackchestnut/blackchestnut.github.io/issues/27)
 
 ### React Native
 
@@ -53,7 +74,7 @@
 - Build
   - [Build unsigned apk for device without the development server](https://github.com/blackchestnut/blackchestnut.github.io/issues/12)
   - [Build signed apk for release](https://github.com/blackchestnut/blackchestnut.github.io/issues/17)
-  
+
 - Emulator
   - [Paste text on Android Emulator](https://github.com/blackchestnut/blackchestnut.github.io/issues/18)
 
