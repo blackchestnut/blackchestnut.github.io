@@ -46,8 +46,8 @@
 - [References with alias name](https://github.com/blackchestnut/blackchestnut.github.io/issues/3)
 
 ### Sidekiq
-- [Reschedule jobs](https://github.com/blackchestnut/blackchestnut.github.io/issues/30)
 - [Delete jobs](https://github.com/blackchestnut/blackchestnut.github.io/issues/32)
+- [Reschedule jobs](https://github.com/blackchestnut/blackchestnut.github.io/issues/30)
 
 ### Useful Code
 - [ApplicationHelper and layouts/application](https://github.com/blackchestnut/blackchestnut.github.io/issues/9)
@@ -74,30 +74,31 @@
 
 ### Android
 - Build
-  - [Build unsigned apk for device without the development server](https://github.com/blackchestnut/blackchestnut.github.io/issues/12)
   - [Build signed apk for release](https://github.com/blackchestnut/blackchestnut.github.io/issues/17)
+  - [Build unsigned apk for device without the development server](https://github.com/blackchestnut/blackchestnut.github.io/issues/12)
 
 - Emulator
   - [Paste text on Android Emulator](https://github.com/blackchestnut/blackchestnut.github.io/issues/18)
 
 - Troubleshooting
-  - [Execution failed for task ':app:dexDebug'](https://github.com/blackchestnut/blackchestnut.github.io/issues/13)
   - [Android release APK, build error third-party/glog-0.3.4/test-driver](https://github.com/blackchestnut/blackchestnut.github.io/issues/25)
   - [Confirm license for package Android SDK Build-Tools](https://github.com/blackchestnut/blackchestnut.github.io/issues/29)
+  - [Execution failed for task ':app:dexDebug'](https://github.com/blackchestnut/blackchestnut.github.io/issues/13)
 
 
 ## PostgreSQL
 
-- [Upgrade PostgreSQL 9.3 on OS X](https://github.com/blackchestnut/blackchestnut.github.io/issues/4)
 - [General Table Size Information](https://github.com/blackchestnut/blackchestnut.github.io/issues/14)
 - [Simple pg backup](https://github.com/blackchestnut/blackchestnut.github.io/issues/26)
+- [Upgrade PostgreSQL 9.3 on OS X](https://github.com/blackchestnut/blackchestnut.github.io/issues/4)
 
 
 ## Administration
 
-- [To Add Swap on Ubuntu 14.04](https://github.com/blackchestnut/blackchestnut.github.io/issues/16)
-- [SSL certificate](https://github.com/blackchestnut/blackchestnut.github.io/issues/21)
+- [Elasticsearch](https://github.com/blackchestnut/blackchestnut.github.io/issues/33)
 - [Install Dropbox Client as a Service on Ubuntu 14.04](https://github.com/blackchestnut/blackchestnut.github.io/issues/22)
+- [SSL certificate](https://github.com/blackchestnut/blackchestnut.github.io/issues/21)
+- [To Add Swap on Ubuntu 14.04](https://github.com/blackchestnut/blackchestnut.github.io/issues/16)
 
 
 ## Git
