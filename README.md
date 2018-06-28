@@ -9,6 +9,7 @@
   - [Decorators](#decorators)
   - [Elasticsearch](#elasticsearch)
   - [File Attachment Tools](#file-attachment-tools)
+  - [Logging](#logging)
   - [Migrations](#migrations)
   - [Sidekiq](#sidekiq)
   - [Useful Code](#useful-code)
@@ -41,6 +42,9 @@
 - [Shrine](https://github.com/blackchestnut/blackchestnut.github.io/issues/1)
 - [Shrine direct uploads to s3](https://github.com/blackchestnut/blackchestnut.github.io/issues/8)
 - [Shrine direct uploads to s3 (has_many)](https://github.com/blackchestnut/blackchestnut.github.io/issues/19)
+
+### Logging
+- [Disable Rails SQL logging in console](https://github.com/blackchestnut/blackchestnut.github.io/issues/35)
 
 ### Migrations
 - [References with alias name](https://github.com/blackchestnut/blackchestnut.github.io/issues/3)
