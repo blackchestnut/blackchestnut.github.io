@@ -100,7 +100,7 @@
 ## Administration
 
 - [Elasticsearch](https://github.com/blackchestnut/blackchestnut.github.io/issues/33)
-- [Elasticsearch Index errors: blocked by: [FORBIDDEN/12/index read-only](https://github.com/blackchestnut/blackchestnut.github.io/issues/36)
+- [Elasticsearch Index errors:FORBIDDEN index read-only](https://github.com/blackchestnut/blackchestnut.github.io/issues/36)
 - [GNU Screen](https://github.com/blackchestnut/blackchestnut.github.io/issues/34)
 - [Install Dropbox Client as a Service on Ubuntu 14.04](https://github.com/blackchestnut/blackchestnut.github.io/issues/22)
 - [SSL certificate](https://github.com/blackchestnut/blackchestnut.github.io/issues/21)
