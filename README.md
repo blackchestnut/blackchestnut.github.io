@@ -105,6 +105,7 @@
 - [Install Dropbox Client as a Service on Ubuntu 14.04](https://github.com/blackchestnut/blackchestnut.github.io/issues/22)
 - [SSL certificate](https://github.com/blackchestnut/blackchestnut.github.io/issues/21)
 - [To Add Swap on Ubuntu 14.04](https://github.com/blackchestnut/blackchestnut.github.io/issues/16)
+- [Kill processes running in background](https://github.com/blackchestnut/blackchestnut.github.io/issues/37)
 
 
 ## Git
