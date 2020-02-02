@@ -22,6 +22,7 @@
 - [PostgreSQL](#postgresql)
 - [Administration](#administration)
 - [Git](#git)
+- [Misc](#misc)
 
 
 ## Ruby on Rails
@@ -111,3 +112,6 @@
 ## Git
 
 - [Keeping a fork up to date](https://github.com/blackchestnut/blackchestnut.github.io/issues/20)
+
+## Misc
+- [macOS Catalina 10.15](https://github.com/blackchestnut/blackchestnut.github.io/issues/38)
