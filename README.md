@@ -128,3 +128,4 @@
 
 ## Misc
 - [macOS Catalina 10.15](https://github.com/blackchestnut/blackchestnut.github.io/issues/38)
+- [brew upgrade macvim](https://github.com/blackchestnut/blackchestnut.github.io/issues/40)
