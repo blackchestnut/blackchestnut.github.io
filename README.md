@@ -3,6 +3,7 @@
 > Developer Notes
 
 ## Contents
+- [GraphQL](#graphql)
 - [Ruby on Rails](#ruby-on-rails)
   - [Assets](#assets)
   - [Caching](#caching)
@@ -28,6 +29,9 @@
 - [Git](#git)
 - [Misc](#misc)
 
+
+## GraphQL
+- [How to Retrieve a GraphQL Schema](https://github.com/blackchestnut/blackchestnut.github.io/issues/42)
 
 ## Ruby on Rails
 
