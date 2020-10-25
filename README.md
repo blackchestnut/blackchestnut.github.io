@@ -119,6 +119,7 @@
 ### Disk Space
 - [To Add Swap on Ubuntu 14.04](https://github.com/blackchestnut/blackchestnut.github.io/issues/16)
 - [Find and remove large junk files from the server](https://github.com/blackchestnut/blackchestnut.github.io/issues/39)
+- [journalctl disk usage](https://github.com/blackchestnut/blackchestnut.github.io/issues/43)
 
 ### Other
 - [Install Dropbox Client as a Service on Ubuntu 14.04](https://github.com/blackchestnut/blackchestnut.github.io/issues/22)
