@@ -125,9 +125,6 @@
 - [Install Dropbox Client as a Service on Ubuntu 14.04](https://github.com/blackchestnut/blackchestnut.github.io/issues/22)
 - [SSL certificate](https://github.com/blackchestnut/blackchestnut.github.io/issues/21)
 - [GNU Screen](https://github.com/blackchestnut/blackchestnut.github.io/issues/34)
-- [Creating Windows bootable USB in MacOS](https://github.com/blackchestnut/blackchestnut.github.io/issues/44)
-
-
 
 ## Git
 
@@ -136,3 +133,4 @@
 ## Misc
 - [macOS Catalina 10.15](https://github.com/blackchestnut/blackchestnut.github.io/issues/38)
 - [brew upgrade macvim](https://github.com/blackchestnut/blackchestnut.github.io/issues/40)
+- [Creating Windows bootable USB in MacOS](https://github.com/blackchestnut/blackchestnut.github.io/issues/44)
