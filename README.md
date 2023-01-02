@@ -105,6 +105,7 @@
 - [General Table Size Information](https://github.com/blackchestnut/blackchestnut.github.io/issues/14)
 - [Simple pg backup](https://github.com/blackchestnut/blackchestnut.github.io/issues/26)
 - [Upgrade PostgreSQL 9.3 on OS X](https://github.com/blackchestnut/blackchestnut.github.io/issues/4)
+- [List tables by their size in PostgreSQL database](https://github.com/blackchestnut/blackchestnut.github.io/issues/45)
 
 
 ## Administration
