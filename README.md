@@ -135,3 +135,4 @@
 - [macOS Catalina 10.15](https://github.com/blackchestnut/blackchestnut.github.io/issues/38)
 - [brew upgrade macvim](https://github.com/blackchestnut/blackchestnut.github.io/issues/40)
 - [Creating Windows bootable USB in MacOS](https://github.com/blackchestnut/blackchestnut.github.io/issues/44)
+- [Number of lines in the project source files](https://github.com/blackchestnut/blackchestnut.github.io/issues/46)
