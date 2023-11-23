@@ -5,6 +5,7 @@
 ## Contents
 - [GraphQL](#graphql)
 - [Ruby on Rails](#ruby-on-rails)
+  - [Setup](#setup)
   - [Assets](#assets)
   - [Caching](#caching)
   - [Decorators](#decorators)
@@ -34,6 +35,9 @@
 - [How to Retrieve a GraphQL Schema](https://github.com/blackchestnut/blackchestnut.github.io/issues/42)
 
 ## Ruby on Rails
+
+### Setup
+- [Rails new app API only with PostgreSQL & rspec](https://github.com/blackchestnut/blackchestnut.github.io/issues/47)
 
 ### Assets
 - [Custom fonts in Rails 5](https://github.com/blackchestnut/blackchestnut.github.io/issues/6)
