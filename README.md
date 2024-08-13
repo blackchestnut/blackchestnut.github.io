@@ -130,6 +130,7 @@
 - [Install Dropbox Client as a Service on Ubuntu 14.04](https://github.com/blackchestnut/blackchestnut.github.io/issues/22)
 - [SSL certificate](https://github.com/blackchestnut/blackchestnut.github.io/issues/21)
 - [GNU Screen](https://github.com/blackchestnut/blackchestnut.github.io/issues/34)
+- [WireGuard](https://github.com/blackchestnut/blackchestnut.github.io/issues/48)
 
 ## Git
 
